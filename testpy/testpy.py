@@ -96,7 +96,17 @@ mots = {
     "pourquoi": "gronfir",
     "comment": "balruk",
     "quoi": "drenvil",
-    "quand": "furnok"
+    "quand": "furnok",
+    "danger" : "vronkil",
+    "attention" : "flurak",
+    "aide" : "kelsor",
+    "fuir" : "dolmak",
+    "ennemi" : "gruvel",
+    "blessure" : "tarnok",
+    "urgence" : "braltar",
+    "risque" : "vildar",
+    "piège" : "snarok",
+    "protéger" : "darsil"
 }
 
 # Interface console
